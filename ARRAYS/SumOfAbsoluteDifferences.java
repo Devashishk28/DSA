@@ -1,3 +1,7 @@
+// LeetCode: Sum of Absolute Differences in a Sorted Array
+// Time Complexity: O(n)
+// Space Complexity: O(n)
+
 class Solution {
 
     public int[] getSumAbsoluteDifferences(int[] nums) {
